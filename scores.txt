@@ -1,0 +1,11 @@
+jim, 1.52
+bob, 1.2
+jim, 1.6
+matt, 2.12
+mike, 1.33
+lisa, 3.54
+lisa, 1.55
+bob, 2.64
+pip, 3.13
+rob, 2.79
+lisa, 1.51
